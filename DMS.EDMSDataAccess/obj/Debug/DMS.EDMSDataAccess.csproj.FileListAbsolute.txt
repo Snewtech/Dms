@@ -1,0 +1,5 @@
+E:\1 Rajkumar\Kalyani\Project\DMS\DMS.EDMSDataAccess\bin\Debug\DMS.EDMSDataAccess.dll
+E:\1 Rajkumar\Kalyani\Project\DMS\DMS.EDMSDataAccess\bin\Debug\DMS.EDMSDataAccess.pdb
+E:\1 Rajkumar\Kalyani\Project\DMS\DMS.EDMSDataAccess\obj\Debug\DMS.EDMSDataAccess.dll
+E:\1 Rajkumar\Kalyani\Project\DMS\DMS.EDMSDataAccess\obj\Debug\DMS.EDMSDataAccess.pdb
+E:\1 Rajkumar\Kalyani\Project\DMS\DMS.EDMSDataAccess\obj\Debug\DMS.EDMSDataAccess.csprojResolveAssemblyReference.cache

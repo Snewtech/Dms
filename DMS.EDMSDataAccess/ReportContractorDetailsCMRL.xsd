@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ReportContractorDetailsCMRL" targetNamespace="http://tempuri.org/ReportContractorDetailsCMRL.xsd" xmlns:mstns="http://tempuri.org/ReportContractorDetailsCMRL.xsd" xmlns="http://tempuri.org/ReportContractorDetailsCMRL.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ReportContractorDetailsCMRL" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="ReportContractorDetailsCMRL" msprop:Generator_UserDSName="ReportContractorDetailsCMRL">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Contract_Code" msprop:Generator_ColumnVarNameInTable="columnContract_Code" msprop:Generator_ColumnPropNameInRow="Contract_Code" msprop:Generator_ColumnPropNameInTable="Contract_CodeColumn" msprop:Generator_UserColumnName="Contract_Code" type="xs:string" minOccurs="0" />
+              <xs:element name="Document_Identity_No" msprop:Generator_ColumnVarNameInTable="columnDocument_Identity_No" msprop:Generator_ColumnPropNameInRow="Document_Identity_No" msprop:Generator_ColumnPropNameInTable="Document_Identity_NoColumn" msprop:Generator_UserColumnName="Document_Identity_No" type="xs:string" minOccurs="0" />
+              <xs:element name="Document_Received_Date" msprop:Generator_ColumnVarNameInTable="columnDocument_Received_Date" msprop:Generator_ColumnPropNameInRow="Document_Received_Date" msprop:Generator_ColumnPropNameInTable="Document_Received_DateColumn" msprop:Generator_UserColumnName="Document_Received_Date" type="xs:string" minOccurs="0" />
+              <xs:element name="In_Reference_No" msprop:Generator_ColumnVarNameInTable="columnIn_Reference_No" msprop:Generator_ColumnPropNameInRow="In_Reference_No" msprop:Generator_ColumnPropNameInTable="In_Reference_NoColumn" msprop:Generator_UserColumnName="In_Reference_No" type="xs:string" minOccurs="0" />
+              <xs:element name="Document_Subject" msprop:Generator_ColumnVarNameInTable="columnDocument_Subject" msprop:Generator_ColumnPropNameInRow="Document_Subject" msprop:Generator_ColumnPropNameInTable="Document_SubjectColumn" msprop:Generator_UserColumnName="Document_Subject" type="xs:string" minOccurs="0" />
+              <xs:element name="Reply_Reference" msprop:Generator_ColumnVarNameInTable="columnReply_Reference" msprop:Generator_ColumnPropNameInRow="Reply_Reference" msprop:Generator_ColumnPropNameInTable="Reply_ReferenceColumn" msprop:Generator_UserColumnName="Reply_Reference" type="xs:string" minOccurs="0" />
+              <xs:element name="Reply_Date" msprop:Generator_ColumnVarNameInTable="columnReply_Date" msprop:Generator_ColumnPropNameInRow="Reply_Date" msprop:Generator_ColumnPropNameInTable="Reply_DateColumn" msprop:Generator_UserColumnName="Reply_Date" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
